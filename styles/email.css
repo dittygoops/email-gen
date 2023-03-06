@@ -16,9 +16,13 @@ body {
 }
 
 .subject {
-    height: 50px;
+    height: 75px;
 }
 
 .emailbody {
     height: 500px;
+}
+
+.warning {
+    background-color: lightcoral;
 }
