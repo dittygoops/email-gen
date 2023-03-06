@@ -1,0 +1,13 @@
+body {
+    background-color: dimgray;
+    text-align: center;
+}
+
+.big-card {
+    background-color: white;
+}
+
+.small-card {
+    background-color: rgb(121, 224, 238, 25%);
+    height: 250px;
+}
