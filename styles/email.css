@@ -1,0 +1,24 @@
+body {
+    background-color: dimgray;
+    text-align: center;
+}
+
+.big-card {
+    background-color: white;
+}
+
+.small-card {
+    background-color: rgb(121, 224, 238, 25%);
+}
+
+.recipients {
+    height: 100px;
+}
+
+.subject {
+    height: 50px;
+}
+
+.emailbody {
+    height: 500px;
+}
